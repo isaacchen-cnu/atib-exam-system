@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "A-114-1-BASIC-001",
+      "type": "academic",
+      "year": 114,
+      "session": "1",
+      "exam": "114-1",
+      "group": "運動防護基礎科學",
+      "subject": "人體解剖學與實驗",
+      "subjectClassification": "manual",
+      "number": 1,
+      "text": "請填入正式題幹",
+      "options": {"A":"選項A","B":"選項B","C":"選項C","D":"選項D"},
+      "acceptedAnswers": ["A"],
+      "explanation": "請填入考生版解析。",
+      "official": true,
+      "verificationStatus": "manual-reviewed",
+      "sourceUrl": "https://www.sports.gov.tw/News/5170",
+      "sourceLabel": "運動部歷屆考題",
+      "answerSource": "請填入官方解答或官方更正公告網址",
+      "explanationSource": "請填入教科書、期刊或可靠臨床資料來源",
+      "reviewNotes": "管理者複核註記",
+      "enabled": true,
+      "approvedForPublish": false
+    }
+  ]
+}

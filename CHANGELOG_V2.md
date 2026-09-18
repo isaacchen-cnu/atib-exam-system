@@ -1,0 +1,11 @@
+# v2 權限與發布架構
+- 移除學科示範題對考生的發布路徑。
+- 建立 draft-question-bank 與 published-question-bank 分離儲存。
+- 新增管理者單題編輯、答案來源、解析來源、複核註記。
+- 新增 `approvedForPublish` 明確核准欄位。
+- 新增批次核准/取消核准。
+- 新增發布快照；考生永遠只讀上一個正式發布版本。
+- 管理 API 需要 admin role 或 ADMIN_EMAILS 白名單。
+- 考生 API 要求已登入，而且帳號必須有 Email、姓名、單位。
+- 首頁放入嘉南藥理大學與 ATIB Logo。
+- 術科 104–115 共 247 個考點先作為草稿，不自動公開。

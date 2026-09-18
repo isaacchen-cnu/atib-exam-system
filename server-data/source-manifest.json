@@ -1,0 +1,265 @@
+{
+  "version": "2026-09-17-backend-v2",
+  "officialIndex": "https://www.sports.gov.tw/News/5170",
+  "subjectSource": "https://www.tats.org.tw/sites/default/files/file/115%E5%B9%B4%E5%BA%A6%E7%AC%AC1%E6%AC%A1%E9%81%8B%E5%8B%95%E9%98%B2%E8%AD%B7%E5%93%A1%E8%B3%87%E6%A0%BC%E6%AA%A2%E5%AE%9A%E8%80%83%E8%A9%A6%E7%B0%A1%E7%AB%A0.pdf",
+  "sources": [
+    {
+      "key": "115-1",
+      "label": "115年度第一次",
+      "url": "https://www.tats.org.tw/sites/default/files/file/115%E5%B9%B4%E5%BA%A6%E7%AC%AC1%E6%AC%A1%E6%AA%A2%E5%AE%9A%E8%80%83%E9%A1%8C%E5%8F%8A%E5%AD%B8%E7%A7%91%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "115-1"
+      ],
+      "parseMode": "table-answer",
+      "status": "text"
+    },
+    {
+      "key": "114-2",
+      "label": "114年度第二次",
+      "url": "https://www.tats.org.tw/sites/default/files/file/114%E5%B9%B4%E7%AC%AC2%E6%AC%A1%E6%AA%A2%E5%AE%9A%E8%80%83%E9%A1%8C%E5%8F%8A%E5%AD%B8%E7%A7%91%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "114-2"
+      ],
+      "parseMode": "table-answer",
+      "status": "text"
+    },
+    {
+      "key": "114-1",
+      "label": "114年度第一次（0814修正版）",
+      "url": "https://www.tats.org.tw/sites/default/files/file/114%E5%B9%B4%E5%BA%A6%E7%AC%AC1%E6%AC%A1%E6%AA%A2%E5%AE%9A%E8%80%83%E9%A1%8C%E5%8F%8A%E5%AD%B8%E7%A7%91%E8%A7%A3%E7%AD%94-0814.pdf",
+      "expectedExams": [
+        "114-1"
+      ],
+      "parseMode": "table-answer",
+      "status": "text"
+    },
+    {
+      "key": "113-2",
+      "label": "113年度第二次",
+      "url": "https://www.tats.org.tw/sites/default/files/file/113%E5%B9%B4%E5%BA%A6%E7%AC%AC2%E6%AC%A1%E6%AA%A2%E5%AE%9A%E8%80%83%E9%A1%8C%E5%8F%8A%E5%AD%B8%E7%A7%91%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "113-2"
+      ],
+      "parseMode": "table-answer",
+      "status": "text"
+    },
+    {
+      "key": "113-1",
+      "label": "113年度第一次（修正版）",
+      "url": "https://www.tats.org.tw/sites/default/files/113%E5%B9%B4%E5%BA%A6%E7%AC%AC1%E6%AC%A1%E6%AA%A2%E5%AE%9A%E8%80%83%E9%A1%8C%E5%8F%8A%E5%AD%B8%E7%A7%91%E8%A7%A3%E7%AD%94-%E4%BF%AE.pdf",
+      "expectedExams": [
+        "113-1"
+      ],
+      "parseMode": "table-answer",
+      "status": "text"
+    },
+    {
+      "key": "112-2",
+      "label": "112年度第二次",
+      "url": "https://www.tats.org.tw/sites/default/files/file/112%E5%B9%B4%E5%BA%A6%E7%AC%AC2%E6%AC%A1%E6%AA%A2%E5%AE%9A%E8%80%83%E9%A1%8C%E5%8F%8A%E5%AD%B8%E7%A7%91%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "112-2"
+      ],
+      "parseMode": "table-answer",
+      "status": "text"
+    },
+    {
+      "key": "112-1",
+      "label": "112年度第一次",
+      "url": "https://www.tats.org.tw/sites/default/files/file/112-1%E9%81%8B%E5%8B%95%E9%98%B2%E8%AD%B7%E5%93%A1%E8%80%83%E8%A9%A6-%E5%AD%B8%E3%80%81%E8%A1%93%E7%A7%91%E8%A9%A6%E9%A1%8C%E8%88%87%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "112-1"
+      ],
+      "parseMode": "scan-or-text",
+      "status": "scan-likely"
+    },
+    {
+      "key": "111-2",
+      "label": "111年度第二次",
+      "url": "https://www.tats.org.tw/sites/default/files/file/111-2%E9%81%8B%E5%8B%95%E9%98%B2%E8%AD%B7%E5%93%A1%E8%80%83%E8%A9%A6-%E5%AD%B8%E3%80%81%E8%A1%93%E7%A7%91%E8%A9%A6%E9%A1%8C%E8%88%87%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "111-2"
+      ],
+      "parseMode": "table-answer",
+      "status": "text"
+    },
+    {
+      "key": "111-1",
+      "label": "111年度第一次",
+      "url": "https://www.tats.org.tw/sites/default/files/file/111%E5%B9%B4%E5%BA%A6%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%80%83%E8%A9%A6-%E8%A9%A6%E9%A1%8C%E8%88%87%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "111-1"
+      ],
+      "parseMode": "table-answer",
+      "status": "text"
+    },
+    {
+      "key": "110",
+      "label": "110年度（含第一次、第二次）",
+      "url": "https://www.tats.org.tw/sites/default/files/file/110%E5%B9%B4%E5%BA%A6-%E8%80%83%E8%A9%A6%E8%A9%A6%E9%A1%8C%E8%88%87%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "110-1",
+        "110-2"
+      ],
+      "parseMode": "inline-answer",
+      "status": "text"
+    },
+    {
+      "key": "109",
+      "label": "109年度（含第一次、第二次）",
+      "url": "https://www.tats.org.tw/sites/default/files/file/109%E5%B9%B4%E5%BA%A6-%E8%80%83%E8%A9%A6%E8%A9%A6%E9%A1%8C%E8%88%87%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "109-1",
+        "109-2"
+      ],
+      "parseMode": "inline-answer",
+      "status": "text"
+    },
+    {
+      "key": "108",
+      "label": "108年度（含第一次、第二次）",
+      "url": "https://www.tats.org.tw/sites/default/files/file/108%E5%B9%B4%E5%BA%A6-%E8%80%83%E8%A9%A6%E8%A9%A6%E9%A1%8C%E8%88%87%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "108-1",
+        "108-2"
+      ],
+      "parseMode": "inline-answer",
+      "status": "text"
+    },
+    {
+      "key": "107",
+      "label": "107年度（含第一次、第二次）",
+      "url": "https://www.tats.org.tw/sites/default/files/file/107%E5%B9%B4%E5%BA%A6-%E8%80%83%E8%A9%A6%E8%A9%A6%E9%A1%8C%E8%88%87%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "107-1",
+        "107-2"
+      ],
+      "parseMode": "inline-answer",
+      "status": "text"
+    },
+    {
+      "key": "106",
+      "label": "106年度（含第一次、第二次）",
+      "url": "https://www.tats.org.tw/sites/default/files/file/106%E5%B9%B4%E5%BA%A6-%E8%80%83%E8%A9%A6%E8%A9%A6%E9%A1%8C%E8%88%87%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "106-1",
+        "106-2"
+      ],
+      "parseMode": "inline-answer",
+      "status": "text"
+    },
+    {
+      "key": "105",
+      "label": "105年度（含第一次、第二次）",
+      "url": "https://www.tats.org.tw/sites/default/files/file/105%E5%B9%B4%E5%BA%A6-%E8%80%83%E8%A9%A6%E8%A9%A6%E9%A1%8C%E8%88%87%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "105-1",
+        "105-2"
+      ],
+      "parseMode": "inline-answer",
+      "status": "large-text"
+    },
+    {
+      "key": "104",
+      "label": "104年度（含第一次、第二次）",
+      "url": "https://www.tats.org.tw/sites/default/files/file/104%E5%B9%B4%E5%BA%A6-%E8%80%83%E8%A9%A6%E8%A9%A6%E9%A1%8C%E8%88%87%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "104-1",
+        "104-2"
+      ],
+      "parseMode": "inline-answer",
+      "status": "text"
+    },
+    {
+      "key": "100-103",
+      "label": "100–103年度學科合併掃描檔",
+      "url": "https://www.tats.org.tw/sites/default/files/file/100%E5%B9%B4%E5%BA%A6%E8%87%B3103%E5%B9%B4%E5%BA%A6-%E5%AD%B8%E7%A7%91%E8%80%83%E9%A1%8C%E5%8F%8A%E8%A7%A3%E7%AD%94.pdf",
+      "expectedExams": [
+        "100",
+        "101",
+        "102",
+        "103"
+      ],
+      "parseMode": "scan-highlight",
+      "status": "manual-review-required"
+    }
+  ],
+  "corrections": [
+    {
+      "exam": "113-1",
+      "group": "運動防護基礎科學",
+      "number": 15,
+      "acceptedAnswers": [
+        "A",
+        "D"
+      ],
+      "status": "official-corrected",
+      "notice": "https://www.tats.org.tw/news/25811"
+    },
+    {
+      "exam": "113-1",
+      "group": "運動防護基礎科學",
+      "number": 45,
+      "acceptedAnswers": [
+        "BONUS"
+      ],
+      "status": "official-bonus",
+      "notice": "https://www.tats.org.tw/news/25811"
+    },
+    {
+      "exam": "113-1",
+      "group": "運動防護基礎科學",
+      "number": 94,
+      "acceptedAnswers": [
+        "B"
+      ],
+      "status": "official-corrected",
+      "notice": "https://www.tats.org.tw/news/25811"
+    },
+    {
+      "exam": "114-1",
+      "group": "運動防護基礎科學",
+      "number": 72,
+      "acceptedAnswers": [
+        "C"
+      ],
+      "status": "official-corrected",
+      "notice": "https://www.tats.org.tw/news/31620"
+    },
+    {
+      "exam": "114-1",
+      "group": "運動防護基礎科學",
+      "number": 94,
+      "acceptedAnswers": [
+        "A",
+        "C"
+      ],
+      "status": "official-corrected",
+      "notice": "https://www.tats.org.tw/news/31620"
+    }
+  ],
+  "groups": {
+    "運動防護基礎科學": [
+      "人體解剖學與實驗",
+      "人體生理學與實驗",
+      "運動生理學與實驗",
+      "運動營養學",
+      "運動生物力學",
+      "運動心理學",
+      "運動保健之經營與管理",
+      "健康管理"
+    ],
+    "運動防護專業科學": [
+      "運動傷害防護學與實驗",
+      "運動處方",
+      "運動貼紮與實驗",
+      "運動傷害防護儀器之運用",
+      "運動推拿指壓學",
+      "運動傷害評估學",
+      "運動保健學",
+      "運動體能訓練"
+    ]
+  },
+  "prerequisiteCourseSource": "https://www.tats.org.tw/node/7443",
+  "backupIndex": "https://www.tats.org.tw/files/31"
+}
